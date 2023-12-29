@@ -1,0 +1,38 @@
+.contactMe{
+    margin-top: 80px;
+    margin-bottom: 20px;
+}
+.containerBody{
+    position: relative;
+    height: 400px;
+    
+}
+.image .img-fluid {
+    height: 40%;
+    max-width: 49%;
+}
+.text h1{
+    color: white;
+    font-weight: bold;
+    padding: 12px;
+}
+mb-3{
+    position: absolute;
+    margin-top: 10px;
+}
+.janam{
+    position: absolute;
+    top: 18%;
+    padding: 18px;
+    background-color: #dee2e6;
+    margin-left: 523px;
+    width: 597px
+}
+.contacticons .contacticon i{
+    color: white;
+    padding: 1px;
+    padding-left: 20px;
+}
+.contacticons .contacticon i:hover{
+    transform: scale(1.5);
+}

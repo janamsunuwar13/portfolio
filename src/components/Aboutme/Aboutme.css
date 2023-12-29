@@ -1,0 +1,36 @@
+.container{
+    background-color: rgb(47, 44, 44);
+  
+}
+.img-fluid{
+    height: 40%;
+    max-width: 30%;
+    flex-shrink: 0;
+    
+}
+.Text{
+    display:flex;
+    color:orange;
+   
+}
+
+.Text p{
+    padding-top: 25px;
+    padding-left: 40px;
+ 
+}
+.profile-options{
+    padding-top: 50px;
+}
+.containers{
+    margin-left: 0;
+}
+.subHead h7{
+    padding-bottom: 10px;
+    width: 3000px;
+}
+.aboutme {
+    text-align: center;
+    height:110px;
+    margin-top: 80px;
+}

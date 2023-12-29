@@ -1,0 +1,45 @@
+.resume{
+    text-align: center;
+    height:110px;
+    margin-top: 80px;
+}
+.resumeBody{
+    padding-top: 20px;
+    background-color: rgb(47, 44, 44);
+}
+.progressHead h5{
+    margin-left:0;
+    color:orange;
+    justify-content: space-between;
+    text-align: left;
+    padding-left:15px;
+}
+.progressHead h3{
+    color:orange;
+    text-align: left;
+    padding-left:15px;
+    font-weight: bold;
+}
+.progressHead h6{
+    color:white;
+    text-align: left;
+    padding-left:15px;
+    font-weight: bold;
+}
+.progressHead p{
+    color:white;
+    text-align: left;
+    padding-left:15px;
+}
+.progressLine{
+    padding-left:15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+}
+.range{
+    width: 100%;
+    color:orange;
+    padding-left: 500px;
+    padding-right: 500px
+
+}

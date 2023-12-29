@@ -1,0 +1,18 @@
+.footer{
+    background-color:  rgb(47, 44, 44);
+    margin-top: px;
+    height: 150px;
+}
+.footer .footericon i{
+    color: white;
+    padding: 5px;
+    padding-top: 20px;
+    padding-left: 20px;
+    font-size: 43px;
+}
+.footer .footericon i:hover{
+    transform: scale(1.5);
+}
+.p-3{
+    color:orange;
+}
